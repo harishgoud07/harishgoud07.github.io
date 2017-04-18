@@ -24,7 +24,7 @@ html, body {
 
 
 .myClass{
-      background-image:url('../images/city.jpg');
+      background-image:url('../images/cover.jpg');
       background-repeat: no-repeat;
       background-position: center center;
       background-size: cover;
@@ -255,12 +255,12 @@ li {
 .ppt {
   font-size: 30px;
   font-weight: 300;
-  color: #000;
+  color: white;
   margin-top: 20px;
 }
 .ppd {
   font-size: 18px;
-  color: #444;
+  color: white;
   font-weight: 350;
 }
 
